@@ -461,3 +461,7 @@ void print_result_of_abcd(float a, float b, float c, float d)
    ans = (a+b)*(a*c)/(5*a)+(c+d);
    printf("%.4f",ans);
 }
+void pro27()
+{
+              
+}
