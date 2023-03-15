@@ -455,3 +455,9 @@ void pro26()
     puts("\n\t\t\t\tprintf(\"a=%d b=%d\",a,b);");
     printf("\t\t\t\tgetch();\n\t\t\t\t}"); 
 }
+void print_result_of_abcd(float a, float b, float c, float d)
+{
+   float ans;
+   ans = (a+b)*(a*c)/(5*a)+(c+d);
+   printf("%.4f",ans);
+}
