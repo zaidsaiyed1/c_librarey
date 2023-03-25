@@ -467,5 +467,7 @@ void pro27()
     printf("\n\t\t\t\tvoid main()\n\t\t\t\t{\n\t\t\t\tclrscr();\n\t\t\t\tint a,b,c,d,ans;");
     puts("\n\t\t\t\tpritf(\"Enter the number of a&b:\");\n\t\t\t\tscanf(\"%d %d\",&a,&b);"); 
     puts("\n\t\t\t\tpritf(\"Enter the number of c&d:\");\n\t\t\t\tscanf(\"%d %d\",&c,&d);");
-    
+    printf("\n\t\t\t\tans = (a+b)*(a*c)/(5*a)+(c+d);;");
+    printf("\t\t\t\tgetch();\n\t\t\t\t}"); 
+
 }
