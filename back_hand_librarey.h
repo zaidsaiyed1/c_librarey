@@ -463,5 +463,9 @@ void print_result_of_abcd(float a, float b, float c, float d)
 }
 void pro27()
 {
-              
+  printf("\t\t\t\t#include<stdio.h>\n\t\t\t\t#include<conio.h>");
+    printf("\n\t\t\t\tvoid main()\n\t\t\t\t{\n\t\t\t\tclrscr();\n\t\t\t\tint a,b,c,d,ans;");
+    puts("\n\t\t\t\tpritf(\"Enter the number of a&b:\");\n\t\t\t\tscanf(\"%d %d\",&a,&b);"); 
+    puts("\n\t\t\t\tpritf(\"Enter the number of c&d:\");\n\t\t\t\tscanf(\"%d %d\",&c,&d);");
+    
 }
