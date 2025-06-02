@@ -3,10 +3,6 @@ This is a **personal C library project** created to **organize and manage** all 
 It serves as a central repository where I store, reuse, and maintain various C programs, functions, and utilities that I’ve written over time.
 The goal of this project is to keep my C code well-structured and easily accessible for future reference or reuse in other projects.
 
-Sure! Here's a clear list of features based on your description, suitable for including in the README:
-
----
-
 ### ✨ Features
 
 * 📂 **Program Navigation Menu**
